@@ -1,0 +1,4 @@
+[submodule "coconut-cookies"]
+	path = coconut-cookies
+	url = https://github.com/jw-git-examples/subproject-coconut-cookies.git
+	branch = master
